@@ -1,4 +1,4 @@
-# 💸 Expense Tracker Web Application
+#  Expense Tracker Web Application
 
 A modern, responsive, and fully functional **Expense Tracker** built using **HTML, CSS, and JavaScript**.
 
@@ -6,7 +6,7 @@ This app allows users to manage their finances by tracking income and expenses w
 
 ---
 
-## 🚀 How to Use the Application
+##  How to Use the Application
 
 1. **Open the App**
    - Download the folder or clone the repo.
@@ -27,9 +27,9 @@ This app allows users to manage their finances by tracking income and expenses w
 
 3. **View Your Finances**
    - The app will automatically calculate and display:
-     - 💰 Total Income
-     - 💸 Total Expense
-     - 🔢 Net Balance (Income - Expenses)
+     -  Total Income
+     -  Total Expense
+     -  Net Balance (Income - Expenses)
 
 4. **Manage Transactions**
    - Each transaction appears in a list with color-coded category indicators.
@@ -39,13 +39,13 @@ This app allows users to manage their finances by tracking income and expenses w
 ---
 
 ## 📁 Project File Structure
-📦 expense-tracker/
+expense-tracker/
 ├── index.html # Main HTML layout of the app
 ├── style.css # Styling and responsive UI design
 ├── script.js # JavaScript logic, DOM interaction, data handling
 └── README.md # Instructions and documentation (this file)
 
-## 🔍 Code Structure Explanation
+##  Code Structure Explanation
 
 ### 1. `index.html`
 - Defines the structure of the Expense Tracker app
@@ -77,32 +77,32 @@ Handles the core logic:
 
 ---
 
-## 🎯 Features
+##  Features
 
-✅ Add Income and Expenses  
-✅ Categorize Transactions  
-✅ Total, Expense & Balance Summary  
-✅ Delete Transactions  
-✅ Responsive Design for Mobile and Desktop  
-✅ Local Storage for Data Persistence  
-✅ Color-Coded Category Display  
-✅ Form Validation for Safe Input  
+Add Income and Expenses  
+Categorize Transactions  
+Total, Expense & Balance Summary  
+Delete Transactions  
+Responsive Design for Mobile and Desktop  
+Local Storage for Data Persistence  
+Color-Coded Category Display  
+Form Validation for Safe Input  
 
 ---
 
-## 📈 Possible Future Enhancements
+##  Possible Future Enhancements
 
-- 🔍 Filter by category or date range  
-- 📊 Visualize data using pie charts (Chart.js)  
-- ✏️ Edit/Update transactions  
-- ☁️ Export/Import data to/from CSV or JSON  
-- 🌙 Dark Mode toggle  
+-  Filter by category or date range  
+-  Visualize data using pie charts (Chart.js)  
+-  Edit/Update transactions  
+-  Export/Import data to/from CSV or JSON  
+-  Dark Mode toggle  
 
-## 📝 License
+##  License
 
 This project is licensed under the **MIT License** — free to use and modify for learning or development purposes.
 
 ---
 
-Enjoy tracking your expenses and mastering your money! 💸✨
+Enjoy tracking your expenses and mastering your money!
 
